@@ -16,5 +16,6 @@ public class TestGit {
         System.out.println("测试Git02");
         System.out.println("测试Git03");
         System.out.println("测试Git04");
+        System.out.println("hot-fix-test");
     }
 }
